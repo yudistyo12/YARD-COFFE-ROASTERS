@@ -1,0 +1,98 @@
+.site-header {
+    background: rgba(27, 26, 23, .97);
+    border-color: rgba(216, 207, 192, .18);
+}
+
+.brand-mark {
+    padding: 3px;
+    border-radius: 50%;
+    background: var(--oatmeal-terang);
+}
+
+.brand-copy strong,
+.main-nav,
+.menu-toggle {
+    color: var(--oatmeal-terang);
+}
+
+.brand-copy small {
+    color: var(--oatmeal);
+}
+
+.main-nav .nav-admin {
+    color: var(--oatmeal-terang);
+    border-color: rgba(224, 165, 38, .55);
+}
+
+.nav-cart span {
+    color: var(--arang);
+    background: var(--oatmeal);
+}
+
+.button-dark {
+    color: var(--arang);
+    background: var(--kunyit);
+}
+
+.button-dark:hover {
+    color: var(--arang);
+    background: #c78f1b;
+}
+
+.story-band {
+    background: var(--oatmeal);
+}
+
+.newsletter,
+.site-footer,
+.admin-toolbar {
+    background: var(--arang);
+}
+
+.product-bottom strong {
+    padding: 4px 7px;
+    color: var(--arang);
+    background: var(--kunyit);
+}
+
+.detail-price {
+    border-color: var(--kunyit);
+}
+
+.intro-splash {
+    background: radial-gradient(ellipse at 50% 43%, #3b3426 0, var(--arang) 76%);
+}
+
+.splash-kicker,
+.splash-skip span {
+    color: var(--kunyit);
+}
+
+.splash-loader span {
+    background: var(--kunyit);
+    box-shadow: 0 0 10px rgba(224, 165, 38, .5);
+}
+
+.category-pill.active,
+.category-pill:hover {
+    color: var(--oatmeal-terang);
+    background: var(--arang);
+    border-color: var(--arang);
+}
+
+.category-pill.active span,
+.category-pill:hover span {
+    color: var(--oatmeal);
+}
+
+@media (max-width: 680px) {
+    .main-nav {
+        background: var(--arang);
+        border-color: rgba(216, 207, 192, .18);
+    }
+
+    .main-nav a {
+        color: var(--oatmeal-terang);
+        border-color: rgba(216, 207, 192, .16);
+    }
+}

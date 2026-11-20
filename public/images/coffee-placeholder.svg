@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 950">
+  <rect width="800" height="950" fill="#e9e4d8"/>
+  <circle cx="610" cy="210" r="180" fill="#d9c8a9"/>
+  <path d="M0 690c150-110 270-104 410 0s260 105 390 4v256H0V690Z" fill="#c4b397"/>
+  <path d="M286 410h204v190c0 65-48 114-102 114s-102-49-102-114V410Z" fill="#f7f5ef"/>
+  <path d="M490 448h24c65 0 65 110 0 110h-24" stroke="#f7f5ef" stroke-width="25" fill="none"/>
+  <path d="M335 370c-30-45 30-58 0-104m73 104c-30-45 30-58 0-104" stroke="#6b705f" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <text x="400" y="820" text-anchor="middle" fill="#536456" font-family="Georgia,serif" font-size="28">Yard &amp; Coffee Roasters</text>
+</svg>
